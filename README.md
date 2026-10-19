@@ -98,7 +98,7 @@ We measure **true learning outcomes**, not vanity metrics:
 
 ## 🗺️ 06 / Roadmap & Next Steps
 
-* **title EduLoop 30-Day Execution Roadmap**
+### 🔄EduLoop 30-Day Execution Roadmap
 * **Week 1: Validate** (Talk to 15 learners, 10 tutors)   :active, 0, 7
 * **Week 2: Pilot** (Onboard 5 tutors, teach 10 learners) : 7, 14
 * **Week 3: Measure** (Track attendance & completion)     : 14, 21
