@@ -98,18 +98,12 @@ We measure **true learning outcomes**, not vanity metrics:
 
 ## 🗺️ 06 / Roadmap & Next Steps
 
-```mermaid
-gantt
-    title EduLoop 30-Day Execution Roadmap
-    dateFormat  X
-    axisFormat %s
-    section Execution
-    Week 1: Validate (Talk to 15 learners, 10 tutors)   :active, 0, 7
-    Week 2: Pilot (Onboard 5 tutors, teach 10 learners) : 7, 14
-    Week 3: Measure (Track attendance & completion)     : 14, 21
-    Week 4: Build (Onboard sponsors, launch MVP)        : 21, 30
-```
-
+* **title EduLoop 30-Day Execution Roadmap**
+* **Week 1: Validate** (Talk to 15 learners, 10 tutors)   :active, 0, 7
+* **Week 2: Pilot** (Onboard 5 tutors, teach 10 learners) : 7, 14
+* **Week 3: Measure** (Track attendance & completion)     : 14, 21
+* **Week 4: Build** (Onboard sponsors, launch MVP)        : 21, 30
+    
 * **Now (Manual Pilot):** Forms, live classes, manually verified tutors via WhatsApp.
 * **MVP:** Automated profiles, bookings, payouts, and user dashboards.
 * **Later (Smart Learning):** Autonomous agent matching and adaptive practice modules.
